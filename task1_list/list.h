@@ -9,7 +9,7 @@ typedef struct List {
 } List;
 
 List*initList(void);
-void deinitList(List* pRoot);
+void deinitList(List* pRoot); // Function to deinitialize list
 void addCar(List* pRoot, char* plateNum);
 void removeCar(List* pRoot, char* plateNum);
 

@@ -6,7 +6,7 @@ List mojaLista;
 
 int main()
 {
-	List* pFirstFloor = initList();
+	List* pFirstFloor = initList(); //tworzenie listy
 	List* pSecFloor = initList();
 	
 	deinitList(pFirstFloor);

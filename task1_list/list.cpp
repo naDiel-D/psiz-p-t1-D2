@@ -4,7 +4,7 @@
 #include "math.h"
 
 
-List* initList(void)
+List* initList(void) //tworzenie nowej listy
 {
 	return (new List);
 }

@@ -30,6 +30,7 @@ void printAll(List* pRoot) {
 
 }
 
+//Show number of elements on the list
 int numberOfElements(List* pRoot)
 {
     int number = 0;

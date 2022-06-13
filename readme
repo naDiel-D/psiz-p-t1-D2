@@ -70,3 +70,12 @@ void marcin_lekawski(void)
 {
 	Marcin Łękawski
 }
+
+void klaudia_bodyk(void)
+{
+	Klaudia Bodyk
+}
+void lucjan_bakowski(void)
+{
+	Lucjan Bakowski
+}
